@@ -1,4 +1,4 @@
-# Exercice 5 : Automatisation avec un script shell
+# Automatisation avec un script shell
 
 ## Objectif
 
