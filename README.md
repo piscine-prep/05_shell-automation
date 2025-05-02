@@ -57,8 +57,7 @@ Créez un fichier appelé `script_explanation.txt` à la racine di dossier qui e
 1. Comment rendre un script exécutable
 2. Comment exécuter un script
 3. Ce que fait chaque commande dans votre script
-4. Comment transmettre des arguments à un script
-5. Ce que signifie la ligne shebang (`#!/bin/bash`)
+4. Ce que signifie la ligne shebang (`#!/bin/bash`)
 
 ## Résultat Attendu
 
